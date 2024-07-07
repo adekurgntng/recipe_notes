@@ -6,9 +6,9 @@ Aplikasi Recipe Notes adalah sebuah aplikasi untuk menyimpan dan mengelola resep
 
 ## Anggota Kelompok
 
-- Ade Kurnia 2106029
-- Tiara Febrianti 2106061
-- Nadia Fitriani 2106132
+- Ade Kurnia (2106029)
+- Tiara Febrianti (2106061)
+- Nadia Fitriani (2106132)
 
 ## Deskripsi Proyek
 
