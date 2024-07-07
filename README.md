@@ -6,9 +6,9 @@ Aplikasi Recipe Notes adalah sebuah aplikasi untuk menyimpan dan mengelola resep
 
 ## Anggota Kelompok
 
-- Ade Kurnia (2106029)
-- Tiara Febrianti (2106061)
-- Nadia Fitriani (2106132)
+- Ade Kurnia      (2106029) - [GitHub](https://github.com/adekurgntng)
+- Tiara Febrianti (2106061) - [GitHub](https://github.com/tiarafbrnti)
+- Nadia Fitriani  (2106132) - [GitHub](https://github.com/nadiafitriani)
 
 ## Deskripsi Proyek
 
@@ -37,13 +37,36 @@ Berikut adalah daftar dependensi yang digunakan dalam proyek ini:
 
 ## Tangkapan Layar
 
+**Daftar Resep** 
+
 ![Daftar Resep](assets/screenshots/list.png)
+
+**Detail Resep**  
+
 ![Detail Resep](assets/screenshots/detail.png)
-![Cari Resep Berdasarkan Nama Resp](assets/screenshots/cari.png)
+
+**Cari Resep Berdasarkan Nama Resep**  
+
+![Cari Resep Berdasarkan Nama Resep](assets/screenshots/cari.png)
+
+**Favorit Resep**  
+
 ![Favorit Resep](assets/screenshots/favorit.png)
+
+**Tambah Resep**  
+
 ![Tambah Resep](assets/screenshots/tambah_resep.png)
+
+**Tambah Bahan**  
+
 ![Tambah Bahan](assets/screenshots/tambah_bahan.png)
+
+**Edit Resep**  
+
 ![Edit Resep](assets/screenshots/edit.png)
+
+**Hapus Resep**  
+
 ![Hapus Resep](assets/screenshots/hapus.png)
 
 ## Kontribusi
